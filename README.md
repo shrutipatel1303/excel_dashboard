@@ -21,3 +21,7 @@ Usage
 Open the Excel file.
 Interact with filters (category & publish year) to explore different trends.
 Use the dashboard for library analytics, book tracking, and decision-making.
+
+
+![image](https://github.com/user-attachments/assets/3eaa2d91-81e1-470a-9c3d-8ec6e91a9c0c)
+
